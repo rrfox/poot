@@ -4,10 +4,16 @@
 # markdown engine
 MARK='markdown_py'
 
+# editor
+EDITOR='vim'
 
 # temp location
-TEMPLOC='/tmp/poot/'
+TEMPLOC='/tmp/poot/'$USER'/'
 
 # date of posting
 PDATE=`date '+%b %d, %Y'`
+
+# file to post in
+FPOST='index.html'
+
 
