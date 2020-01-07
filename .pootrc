@@ -1,4 +1,13 @@
 
 # poot config file
+
+# markdown engine
 MARK='markdown_py'
+
+
+# temp location
+TEMPLOC='/tmp/poot/'
+
+# date of posting
+PDATE=`date '+%b %d, %Y'`
 
